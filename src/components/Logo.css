@@ -1,0 +1,10 @@
+.logo {
+    width: 4rem;
+    height: 4rem;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+
+.logo:hover {
+    content: url("facer.png");
+}

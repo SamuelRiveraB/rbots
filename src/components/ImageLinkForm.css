@@ -1,0 +1,13 @@
+.bottom-right {
+    border-bottom-right-radius: 10%;
+}
+
+.bg-pattern {
+    background:
+    linear-gradient(135deg, #747a17 25%, transparent 25%) -50px 0,
+    linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0,
+    linear-gradient(315deg, #ECEDDC 25%, transparent 25%),
+    linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+    background-size: 100px 100px;
+    background-color: #e07e22;
+}
